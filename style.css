@@ -1,0 +1,44 @@
+body{background-color:rgb(127, 246, 255);
+    color: rgb(240, 240, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#box{
+    background-color: rgb(50, 31, 160);
+    color: aqua;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+    width: 400px;
+    height: 300px;
+    border: 2px solid yellow;
+    margin: auto;
+    border-radius: 260px;
+    
+   
+}
+
+.box__text{
+    padding: 100px;
+
+}
+
+#circle{
+    background-color: rgb(218, 216, 229);
+    color: black;
+    font-size: xx-large;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    ;
+    width: 400px;
+    height: 300px;
+    border: 2px solid yellow;
+    margin: auto;
+    border-radius: 100px;
+    
+}
+
+.circle__text{
+    padding: 100px;
+
+}
